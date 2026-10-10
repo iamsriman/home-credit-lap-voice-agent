@@ -67,9 +67,9 @@ The usage dashboard provided an overview of total cost, call minutes, average co
 
 ## 8. Project Links
 
-- **System Prompt:** [Insert GitHub file link]
-- **Test Recordings and Transcripts:** [[Insert Google Drive folder link]](https://drive.google.com/drive/folders/1vJi3jw0A91Jr0IO-okGHZWqrwMLvOxYL)
-- **Retell AI Demo:** [[Insert public demo link, if available]](https://agent.retellai.com/orb/agent_11ebcdf3647e39e04c1baac478?token=a914fe7dd35fc9b1c01faba61d57a4f1)
+- **System Prompt:** [[GitHub file link]](https://github.com/iamsriman/home-credit-lap-voice-agent/blob/main/system-prompt/system_prompt.pdf)
+- **Test Recordings and Transcripts:** [[Google Drive folder link]](https://drive.google.com/drive/folders/1vJi3jw0A91Jr0IO-okGHZWqrwMLvOxYL)
+- **Retell AI Demo:** [[public demo link]](https://agent.retellai.com/orb/agent_11ebcdf3647e39e04c1baac478?token=a914fe7dd35fc9b1c01faba61d57a4f1)
 
 ## 9. Conclusion
 
