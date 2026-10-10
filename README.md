@@ -15,7 +15,9 @@ This project involves building and testing an AI voice agent for Home Credit's L
 
 The agent was configured with a system prompt defining its role, conversation flow, qualification rules, and response guidelines. It was designed to handle interruptions, clarify unclear answers, retain previously provided information, and avoid promising final loan approval.
 
-**Upload Screenshot 1 here:** `docs/images/agent-configuration.png`
+<img width="1922" height="964" alt="image" src="https://github.com/user-attachments/assets/9c41ebb6-4bad-434d-8568-584aad8da73a" />
+
+
 
 ## 4. Eligibility Rules
 
@@ -48,17 +50,20 @@ The reviewed transcripts showed that some scenarios require further refinement a
 
 Retell AI Call History was used to review test sessions, call durations, session status, and available call details.
 
-**Upload Screenshot 2 here:** `docs/images/call-history.png`
+<img width="1922" height="970" alt="image" src="https://github.com/user-attachments/assets/0628c43a-225e-498d-b45e-7e27c784570c" />
+
 
 ## 7. Usage and Cost Monitoring
 
 The billing dashboard was used to review call-related charges and remaining credits.
 
-**Upload Screenshot 3 here:** `docs/images/billing-history.png`
+<img width="1922" height="974" alt="image" src="https://github.com/user-attachments/assets/506d4ade-ab66-4d1f-9a09-3b8a30d33b50" />
+
 
 The usage dashboard provided an overview of total cost, call minutes, average cost per minute, and provider costs during the displayed period.
 
-**Upload Screenshot 4 here:** `docs/images/usage-analytics.png`
+<img width="1922" height="975" alt="image" src="https://github.com/user-attachments/assets/4557cb90-88df-4721-8cec-85fecdee70ce" />
+
 
 ## 8. Project Links
 
